@@ -1,0 +1,33 @@
+Urdu Text Preprocessing Requirements
+pandas>=1.5.0
+LughaatNLP>=0.1.0
+stanza>=1.5.0
+emoji>=2.0.0
+
+Negation Handling Requirements
+pandas>=1.5.0
+numpy>=1.21.0
+torch>=2.0.0
+transformers>=4.30.0
+tensorflow>=2.10.0
+scikit-learn>=1.0.0
+tqdm>=4.65.0
+pyyaml>=6.0
+
+XLM-R Model Training Requirements
+Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.0.0
+
+Data processing
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+
+Optional for GPU support
+cudatoolkit (install via conda or system package manager)
