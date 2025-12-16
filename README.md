@@ -69,6 +69,7 @@ Original samples: 11,131
 Augmented samples:  ~3,340 (30%)
 Total samples: ~14,471
 
+Note: All three generated datasets are uploaded in dataset.zip file. You can access them from there
 
 Code Information
 preprocess.py: Script for preprocessing and tokenizing Urdu text.
